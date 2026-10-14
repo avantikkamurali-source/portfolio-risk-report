@@ -3,9 +3,7 @@
 
 ![Dashboard](image.png)
 
-  
-Picture investing Rs 4.78 lakh across eight of India’s biggest companies: Reliance, TCS, HDFC Bank, Infosys, ITC, Maruti Suzuki, Sun Pharma, and L&T. Since your money is distributed across seven sectors, the portfolio looks reasonably diversified. Still, the real question is how much it can protect you if the market suddenly turns lower.
-
+Picture a hypothetical portfolio of Rs 4.78 lakh spread across eight of India’s biggest companies: Reliance, TCS, HDFC Bank, Infosys, ITC, Maruti Suzuki, Sun Pharma and L&T. With holdings across seven sectors, it looks reasonably diversified. Still, the real question is how well it would hold up if the market suddenly turned lower.
 To answer this, I used historical daily prices from January 2019 to October 2026. I analysed portfolio risk in Excel and then used Power BI to put together an interactive dashboard.
 
 ## The Story Behind the Numbers  
@@ -31,9 +29,3 @@ So the key point is this: even if a portfolio looks diversified based on the num
 Overall, the analysis indicates that spreading investments across multiple sectors can help reduce losses during some market corrections, but it cannot fully eliminate the effect of a broader market crash. The COVID-19 period also made it clear how quickly losses can build up. And the risk contribution results showed that L&T and Maruti Suzuki together made up nearly **48%** of the portfolio’s total risk, despite representing only **39%** of its value.
 
 The main takeaway is that diversification should be evaluated not only by how evenly the capital is distributed, but also by how much risk each holding contributes to the portfolio.
-
-## Files
-- `Risk_Report.xlsx`: Excel workbook (returns, weights, risk metrics, stress tests)
-- `Portfolio_Risk_Dashboard.pbix`: Power BI dashboard (needs Power BI Desktop)
-- `prices_2019.csv`: price data
-  
