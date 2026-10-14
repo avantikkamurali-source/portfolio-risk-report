@@ -32,13 +32,6 @@ Overall, the analysis indicates that spreading investments across multiple secto
 
 The main takeaway is that diversification should be evaluated not only by how evenly the capital is distributed, but also by how much risk each holding contributes to the portfolio.
 
-## Assumptions and Limitations
-- Today's holdings are applied to the whole history ("what if I had held this portfolio throughout?").
-- No transaction costs, taxes or rebalancing.
-- Prices are adjusted for splits and dividends; 252 trading days per year.
-- Crash windows use approximate Nifty peak and trough dates.
-- History may not repeat. VaR is a threshold, not a worst case. A normal distribution understates fat tails, and correlations rise in crashes.
-
 ## Files
 - `Risk_Report.xlsx`: Excel workbook (returns, weights, risk metrics, stress tests)
 - `Portfolio_Risk_Dashboard.pbix`: Power BI dashboard (needs Power BI Desktop)
