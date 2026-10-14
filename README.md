@@ -3,7 +3,7 @@
 
 ![Dashboard](image.png)
 
-## The Setup  
+  
 Picture investing Rs 4.78 lakh across eight of India’s biggest companies: Reliance, TCS, HDFC Bank, Infosys, ITC, Maruti Suzuki, Sun Pharma, and L&T. Since your money is distributed across seven sectors, the portfolio looks reasonably diversified. Still, the real question is how much it can protect you if the market suddenly turns lower.
 
 To answer this, I used historical daily prices from January 2019 to October 2026. I analysed portfolio risk in Excel and then used Power BI to put together an interactive dashboard.
@@ -16,7 +16,7 @@ To see whether these VaR estimates were realistic, I compared them with historic
 Then came the real stress test: three major market corrections.  
 The portfolio held up relatively well during the 2022 sell-off. However, the COVID crash made it clear that diversification cannot fully remove risk that affects the market as a whole. 
 
-## The Biggest Surprise  
+## Key Findings
 The risk contribution analysis revealed something I didn’t expect:
 
 - **L&T:** 20% of the portfolio, but 24% of the risk.  
